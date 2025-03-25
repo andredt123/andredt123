@@ -1,10 +1,16 @@
-<h2 align="left">Hello! I'm André Teixeira</h2>
+<h2 align="left">👋 Hello! I'm André Teixeira</h2>
+
+###
+
+<p align="left">I'm a Software Engineering student passionate about coding and problem-solving. I am constantly improving my skills and exploring new technologies to build efficient and high-quality software solutions.</p>
 
 ###
 
 <h2 align="left">Stats</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andredt123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
